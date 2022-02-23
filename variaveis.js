@@ -1,3 +1,1 @@
-const teste = () => {
-  console.log("aaaa");
-};
+const teste = () => {};
